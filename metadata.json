@@ -1,0 +1,5 @@
+{
+  "name": "Amazon Profit Lens",
+  "description": "A production-ready Amazon seller profit calculator with monthly limits and scenario saving, built with Next.js and Supabase.",
+  "requestFramePermissions": []
+}
